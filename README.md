@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://www.linkedin.com/in/harsh-tailor-178709223/" height="25" alt="linkedin logo"  />
-  <img src="https://harshgith.github.io/portfolio1/" height="25" alt="Portfolio"  />
+  <img src="https://www.linkedin.com/in/harsh-tailor-178709223/" height="25" text="linkedin logo"  />
+  <img src="https://harshgith.github.io/portfolio1/" height="25" text="Portfolio"  />
   
 </div>
 
