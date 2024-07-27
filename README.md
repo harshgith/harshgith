@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://www.linkedin.com/in/harsh-tailor-178709223/" height="25" alt="linkedin logo"  />
+  <img src="https://harshgith.github.io/portfolio1/" height="25" alt="Portfolio"  />
+  
 </div>
 
 ###
@@ -12,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Harsh Tailor<br><br>- 🔭  Computer Science Student <br>- 📚 </p>
+<p align="left">I'm Harsh Tailor<br><br>- 🔭  Computer Science Student <br>- 📚 Aspiring Data Analyst </p>
 
 ###
 
